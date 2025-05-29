@@ -1,10 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on NTU
-- 🌱 I’m currently learning math
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: devinseer2@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Today is Monday
+🔭 I’m currently studying at NTU (National Taiwan University)
+
+🎯 My interests include Uma Musume: Pretty Derby 🐎
+
+📫 How to reach me: devinseer2@gmail.com
+
+⚡ Fun fact: Today is Monday
 
